@@ -11,4 +11,4 @@
   * [Perfom String Shifts](Tasks/Perfom_String_Shifts/main.cpp)
   * [Search in sorted array](https://github.com/ew0s/LeetCode/blob/master/Tasks/Search%20in%20sorted%20array/main.cpp)
 ## May challenge 2020
-  * [First_bad_version](Tasks/May 2020/First_bad_version/main.cpp)
+  * [First_bad_version](Tasks/May2020/First_bad_version/main.cpp)
