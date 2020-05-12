@@ -15,3 +15,6 @@
   * [Jewels and Stones](Tasks/May2020/Jewels_and_Stones/main.cpp)
   * [Ransom note](Tasks/May2020/Ransome_Note/main.cpp)
   * [Number Complement](Tasks/May2020/Number_Complement/main.cpp)
+  * [Magority element](https://github.com/ew0s/LeetCode/blob/master/Tasks/May2020/Majority_Element/main.cpp)
+  * [First Unique Character in a String](https://github.com/ew0s/LeetCode/blob/master/Tasks/May2020/First_Unique_Character_in_a_String%20/main.cpp)
+  * [Check if it is a straight line](https://github.com/ew0s/LeetCode/blob/master/Tasks/May2020/Check_if_its_straight_line/main.cpp)
