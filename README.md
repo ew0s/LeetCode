@@ -14,3 +14,4 @@
   * [First bad version](Tasks/May2020/First_bad_version/main.cpp)
   * [Jewels and Stones](Tasks/May2020/Jewels_and_Stones/main.cpp)
   * [Ransom note](Tasks/May2020/Ransome_Note/main.cpp)
+  * [Number Complement](Tasks/May2020/Number_Complement/main.cpp)
