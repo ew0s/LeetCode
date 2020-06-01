@@ -2,7 +2,7 @@
 ## There are some solutions from LeetCode
 
 ## April challenge 2020
-  *  [Backspace strings compare](Tasks/Backspace_Strings_Compare)
+  * [Backspace strings compare](Tasks/Backspace_Strings_Compare)
   * [Binary tree diameter](Tasks/Binary_Tree_Diameter)
   * [Group anagrams](Tasks/Group_anagrams)
   * [Last stone weight](Tasks/Last_Stone_Weight)
@@ -18,3 +18,5 @@
   * [Magority element](https://github.com/ew0s/LeetCode/blob/master/Tasks/May2020/Majority_Element/main.cpp)
   * [First Unique Character in a String](https://github.com/ew0s/LeetCode/blob/master/Tasks/May2020/First_Unique_Character_in_a_String%20/main.cpp)
   * [Check if it is a straight line](https://github.com/ew0s/LeetCode/blob/master/Tasks/May2020/Check_if_its_straight_line/main.cpp)
+## June challenge 2020
+  * [Invert binary tree](Tasks/June/Invert_binary_tree)
