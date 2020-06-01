@@ -19,4 +19,4 @@
   * [First Unique Character in a String](https://github.com/ew0s/LeetCode/blob/master/Tasks/May2020/First_Unique_Character_in_a_String%20/main.cpp)
   * [Check if it is a straight line](https://github.com/ew0s/LeetCode/blob/master/Tasks/May2020/Check_if_its_straight_line/main.cpp)
 ## June challenge 2020
-  * [Invert binary tree](Tasks/June/Invert_binary_tree)
+  * [Invert binary tree](Tasks/JUNE/invert_binary_tree)
