@@ -20,3 +20,6 @@
   * [Check if it is a straight line](https://github.com/ew0s/LeetCode/blob/master/Tasks/May2020/Check_if_its_straight_line/main.cpp)
 ## June challenge 2020
   * [Invert binary tree](Tasks/JUNE/invert_binary_tree/main.cpp)
+  * [Delete node in linked list](Tasks/JUNE/delete_node_in_linked_list/main.cpp)
+  * [Reverse string](Tasks/JUNE/reverse_string/main.cpp)
+  * [two_city_scheduling](Tasks/JUNE/two_city_scheduling/main.cpp)
