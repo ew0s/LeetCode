@@ -22,4 +22,4 @@
   * [Invert binary tree](Tasks/JUNE/invert_binary_tree/main.cpp)
   * [Delete node in linked list](Tasks/JUNE/delete_node_in_linked_list/main.cpp)
   * [Reverse string](Tasks/JUNE/reverse_string/main.cpp)
-  * [two_city_scheduling](Tasks/JUNE/two_city_scheduling/main.cpp)
+  * [Two city scheduling](Tasks/JUNE/two_city_scheduling/main.cpp)
