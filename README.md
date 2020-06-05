@@ -23,3 +23,4 @@
   * [Delete node in linked list](Tasks/JUNE/delete_node_in_linked_list/main.cpp)
   * [Reverse string](Tasks/JUNE/reverse_string/main.cpp)
   * [Two city scheduling](Tasks/JUNE/two_city_scheduling/main.cpp)
+  * [Random Pick with Weight](Tasks/JUNE/random_pick_with_weight/main.cpp)
