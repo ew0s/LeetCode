@@ -23,5 +23,8 @@
   * [Delete node in linked list](Tasks/JUNE/delete_node_in_linked_list/main.cpp)
   * [Reverse string](Tasks/JUNE/reverse_string/main.cpp)
   * [Two city scheduling](Tasks/JUNE/two_city_scheduling/main.cpp)
-
+  * [Random pick with weight](Tasks/JUNE/random_pick__with_weight/main.cpp)
+  * [Queue reconstruction by height](Tasks/JUNE/queue_reconstruction_by_height/main.cpp)
+  * [Coin Change2](Tasks/JUNE/Coin_Change2/main.cpp)
+  * [Power of two](Tasks/JUNE/Power_of_two/main.cpp)
   
