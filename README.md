@@ -27,4 +27,4 @@
   * [Queue reconstruction by height](Tasks/JUNE/queue_reconstruction_by_height/main.cpp)
   * [Coin Change2](Tasks/JUNE/Coin_Change2/main.cpp)
   * [Power of two](Tasks/JUNE/Power_of_two/main.cpp)
-  
+  * [Is Subsequence](Tasks/JUNE/is_Subsequence/main.cpp)
